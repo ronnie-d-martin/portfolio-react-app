@@ -54,7 +54,7 @@ const Skills = () => {
             <p className="my-4">MONGO DB</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-40 mx-auto" src={PHP} alt="php1 icon" />
+            <img className="w-40 mx-auto" src={PHP} alt="php icon" />
             <p className="my-4">PHP</p>
           </div>
         </div>
